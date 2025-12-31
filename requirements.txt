@@ -1,0 +1,15 @@
+torch
+torchvision.datasets
+torchvision.transforms
+torchvision.models
+torch.nn
+torch.utils.data.DataLoader
+matplotlib.pyplot
+pandas
+numpy
+Pillow
+seaborn
+scikit-learn
+tqdm
+pickle
+json
